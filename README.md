@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Rupal Purbia
 
-<!--
-**rupalpurbia/rupalpurbia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data-focused professional with 5+ years of overall experience across IT services, reporting, data analysis and UX/UI design.
 
-Here are some ideas to get you started:
+I apply data analysis, reporting and dashboarding skills across business-focused projects using Power BI, Excel, SQL, Power Query and DAX.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+
+- Power BI Dashboard Development
+- Data Cleaning and Transformation
+- Power Query
+- DAX Measures
+- SQL Analysis
+- Excel Reporting
+- KPI Design
+- Data Modelling
+- Business Insight Generation
+- Data Visualisation and Storytelling
+
+## Portfolio Focus
+
+This GitHub profile showcases my data analytics projects, including dashboard development, reporting, data modelling, trend analysis and business performance insights.
+
+## Tools
+
+Power BI | Excel | SQL | Power Query | DAX | GitHub
+
+## Featured Projects
+
+- Business 360 Power BI Dashboard
+- Sales Performance Dashboard
